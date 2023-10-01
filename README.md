@@ -55,7 +55,7 @@ Feel free to contribute to this project by submitting issues or pull requests on
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/Mori0x/telegram-lyrics-bot/blob/master/LICENSE).
 
 ## Acknowledgments
 
